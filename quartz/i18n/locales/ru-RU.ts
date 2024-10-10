@@ -22,18 +22,18 @@ export default {
       quote: "Цитата",
     },
     backlinks: {
-      title: "Обратные ссылки",
-      noBacklinksFound: "Обратные ссылки отсутствуют",
+      title: "Упоминания статьи",
+      noBacklinksFound: "Эта статья нигде не упомяналась.",
     },
     themeToggle: {
       lightMode: "Светлый режим",
       darkMode: "Тёмный режим",
     },
     explorer: {
-      title: "Проводник",
+      title: "Большая энциклопедия",
     },
     footer: {
-      createdWith: "Создано с помощью",
+      createdWith: "",
     },
     graph: {
       title: "Вид графа",
@@ -49,7 +49,7 @@ export default {
     },
     search: {
       title: "Поиск",
-      searchBarPlaceholder: "Найти что-нибудь",
+      searchBarPlaceholder: "Поиск по энциклопедии",
     },
     tableOfContents: {
       title: "Оглавление",
