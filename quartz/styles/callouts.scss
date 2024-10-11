@@ -109,14 +109,14 @@
 
   &[data-callout="quote"] {
     --color: var(--secondary);
-	--bg: #f7efe3;
+	--bg: var(--light);
     --border: var(--gray);
     --callout-icon: var(--callout-icon-quote);
   }
   
   &[data-callout="cite"] {
     --color: var(--secondary);
-	--bg: #f7efe3;
+	--bg: var(--light);
     --border: var(--gray);
     --callout-icon: var(--callout-icon-abstract);
   }
